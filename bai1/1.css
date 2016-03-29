@@ -1,0 +1,62 @@
+
+#backgroud{
+	width:90%;
+	background:#f6f6f6;
+	margin:0 auto;
+	background:url("img_tree.png") no-repeat right top;
+	text-align: center;
+	border:1px dashed red;
+	
+}
+#col
+{
+	width:29,5%;
+	margin: 10px;
+	padding: 10px; 
+	border: 1px solid;
+	float: left;
+}
+#col1
+{
+	border-style: solid dashed;
+	border-width: 5px;
+	position: static;
+	
+}
+#col2
+{
+	line-height: 50px;
+	border: none;
+	border-radius;
+	
+	margin-bottom: 10px;
+	background: #AAAAAA;
+	
+}
+#col3
+{
+	background color: rgba(0,0,0,3);
+	
+}
+#col4
+{
+		clear: both;
+		width: 96%;
+		background: #FFFAAA;
+}
+footer{
+	background:#F5BBBF;
+	width:1000px;
+	height:120px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
