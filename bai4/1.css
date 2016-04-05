@@ -1,0 +1,61 @@
+body
+{
+font-family: Arial;
+font-size: 80%;
+background: #afa;
+}
+section
+{
+width:940px;
+margin:auto;
+padding: 20px 100px;
+box-sizing: border-box;
+background: #fff;
+box-shadow: 2px 2px 2px #aaa;
+}
+section div
+{
+text-align: center;
+
+}
+
+ul li
+{
+list-style-type: none;
+text-transform: uppercase;
+display: inline-block;
+margin-right: 30px;
+
+
+}
+ul
+{
+border-bottom: 2px solid;
+padding-bottom:15px;
+}
+a
+{
+text-decoration: none;
+font-weight: bold;
+color:#000;
+}
+ul li: first-child a
+{
+	color:red;
+}
+a:hover
+{
+color:red;
+}
+img
+{
+width:180px;
+height: 120px;
+text-align: center;
+}
+
+
+
+
+
+
